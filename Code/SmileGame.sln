@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmileGame", "SmileGame\SmileGame.csproj", "{A5616A5D-570B-4E54-819C-4618748511AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmileGame.Api", "SmileGame.Api\SmileGame.Api.csproj", "{7001C127-62A8-455B-BC20-4177CA5E71A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5616A5D-570B-4E54-819C-4618748511AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5616A5D-570B-4E54-819C-4618748511AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5616A5D-570B-4E54-819C-4618748511AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5616A5D-570B-4E54-819C-4618748511AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7001C127-62A8-455B-BC20-4177CA5E71A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7001C127-62A8-455B-BC20-4177CA5E71A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7001C127-62A8-455B-BC20-4177CA5E71A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7001C127-62A8-455B-BC20-4177CA5E71A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3916347A-72D4-466A-A78D-85B3089FD9D0}
+	EndGlobalSection
+EndGlobal
