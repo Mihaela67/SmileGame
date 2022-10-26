@@ -1,0 +1,7 @@
+Build/*
+Code/SmileGame/obj/*
+Code/SmileGame.Api/obj/*
+.git/*
+Code/.vs/*
+Code/SmileGame/.vs/*
+Code/SmileGame.Api/.vs/*
